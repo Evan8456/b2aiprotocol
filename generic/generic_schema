@@ -17,6 +17,7 @@
             {
                 "isAbout": "activities/q_generic_demographics/q_generic_demographics_schema",
                 "variableName": "demographics", 
+                "isVis": true,
                 "prefLabel": {
                     "en": "Demographics"
                 }
@@ -24,6 +25,7 @@
             {
                 "isAbout": "activities/q_generic_confounders/q_generic_confounders_schema",
                 "variableName": "confounders",
+                "isVis": true,
                 "prefLabel": {
                     "en": "Confounders"
                 }
