@@ -128,10 +128,10 @@
             }    
         ],
         "order": [
-            "b2ai_redcap2rs_activities:q_generic_demographics/q_generic_demographics_schema",
-            "b2ai_redcap2rs_activities:q_generic_confounders/q_generic_confounders_schema",
-            "b2ai_redcap2rs_activities:q_generic_voice_perception/q_generic_voice_perception_schema",
-            "b2ai_redcap2rs_activities:q_generic_voice_handicap_index_vhi10/q_generic_voice_handicap_index_vhi10_schema",
+            "activities/q_generic_demographics/q_generic_demographics_schema",
+            "activities/q_generic_confounders/q_generic_confounders_schema",
+            "activities/q_generic_voice_perception/q_generic_voice_perception_schema",
+            "activities/q_generic_voice_handicap_index_vhi10/q_generic_voice_handicap_index_vhi10_schema",
             "reproschema_library_activities:PHQ-9/PHQ9_schema",
             "reproschema_library_activities:GAD7/GAD7_schema",
             "activities/audio-check/audio_check_schema",
