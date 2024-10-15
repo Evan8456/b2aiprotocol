@@ -33,6 +33,7 @@
             {
                 "isAbout": "activities/q_generic_voice_perception/q_generic_voice_perception_schema",
                 "variableName": "voice_perception",
+                "isVis": true,
                 "prefLabel": {
                     "en": "Voice Perception"
                 }
@@ -40,6 +41,7 @@
             {
                 "isAbout": "activities/q_generic_voice_handicap_index_vhi10/q_generic_voice_handicap_index_vhi10_schema",
                 "variableName": "vhi_10",
+                "isVis": true,
                 "prefLabel": {
                     "en": "VHI-10"
                 }
@@ -47,6 +49,7 @@
             {
                 "isAbout": "reproschema_library_activities:PHQ-9/PHQ9_schema",
                 "variableName": "phq_9",
+                "isVis": true,
                 "prefLabel": {
                     "en": "PHQ-9"
                 }
@@ -54,6 +57,7 @@
             {
                 "isAbout": "reproschema_library_activities:GAD7/GAD7_schema",
                 "variableName": "gad_7",
+                "isVis": true,
                 "prefLabel": {
                     "en": "GAD-7 Anxiety"
                 }
@@ -61,6 +65,7 @@
             {
                 "isAbout": "activities/audio_check/audio_check_schema",
                 "variableName": "audio_check",
+                "isVis": true,
                 "prefLabel": {
                     "en": "Audio Check"
                 }
@@ -68,6 +73,7 @@
             {
                 "isAbout": "activities/prolonged_vowel/prolonged_vowel_schema",
                 "variableName": "prolonged_vowel_schema",
+                "isVis": true,
                 "prefLabel": {
                     "en": "Prolonged vowel"
                 }
@@ -75,6 +81,7 @@
             {
                 "isAbout": "activities/maximum_phonation_time/maximum_phonation_time_schema",
                 "variableName": "maximum_phonation_time_schema",
+                "isVis": true,
                 "prefLabel": {
                     "en": "Maximum phonation time"
                 }
@@ -82,6 +89,7 @@
             {
                 "isAbout": "activities/rainbow_passage/rainbow_passage_schema",
                 "variableName": "rainbow_passage_schema",
+                "isVis": true,
                 "prefLabel": {
                     "en": "Rainbow passage"
                 }
@@ -89,6 +97,7 @@
             {
                 "isAbout": "activities/glides/glides_schema",
                 "variableName": "glides_schema",
+                "isVis": true,
                 "prefLabel": {
                     "en": "Glides"
                 }
@@ -96,6 +105,7 @@
             {
                 "isAbout": "activities/loudness/loudness_schema",
                 "variableName": "loudness_schema",
+                "isVis": true,
                 "prefLabel": {
                     "en": "Loudness"
                 }
@@ -103,6 +113,7 @@
             {
                 "isAbout":"activities/free_speech/free_speech_schema",
                 "variableName": "free_speech_schema",
+                "isVis": true,
                 "prefLabel": {
                     "en": "Free speech"
                 }
@@ -110,6 +121,7 @@
             {
                 "isAbout":"activities/respiration_and_cough/respiration_and_cough_schema",
                 "variableName": "respiration_and_cough_schema",
+                "isVis": true,
                 "prefLabel": {
                     "en": "Respiration and cough"
                 }
@@ -117,6 +129,7 @@
             {
                 "isAbout":"activities/picture_description/picture_description_schema",
                 "variableName": "picture_description_schema",
+                "isVis": true,
                 "prefLabel": {
                     "en": "Picture description"
                 }
@@ -124,6 +137,7 @@
             {
                 "isAbout":"activities/story_recall/story_recall_schema",
                 "variableName": "story_recall_schema",
+                "isVis": true,
                 "prefLabel": {
                     "en": "Story recall"
                 }
