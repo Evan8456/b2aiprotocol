@@ -9,7 +9,7 @@
         "addProperties": [
             {
                 "isAbout": "items/introduction",
-                "isVis": "'t' === 'f'",
+                "isVis": true,
                 "variableName": "introduction"
             },
             {
